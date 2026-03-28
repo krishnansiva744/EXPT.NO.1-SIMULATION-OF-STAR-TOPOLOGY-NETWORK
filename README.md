@@ -39,4 +39,3 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 # RESULT
 
 Thus the computers in same network are able to communicate with each other and the communication between them were verified.
-
